@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Sanodya Rajapaksha <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm an **Undergraduate Software Engineer Student** at [SLIIT](https://www.sliit.lk/) who interested in frontend and backend developing. I am open to collaborate with various projects and oneday want to be a skilled software engineer in IT industry.
+I'm an **Undergraduate Software Engineering Student** at [SLIIT](https://www.sliit.lk/) who interested in frontend and backend developing. I am open to collaborate with various projects and oneday want to be a skilled software engineer in IT industry.
 
 ## Skill Set :muscle:
 
